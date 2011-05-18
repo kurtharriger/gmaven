@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.gmaven.examples</groupId>
+  <artifactId>install-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.4-SNAPSHOT</latest>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110518234841</lastUpdated>
+  </versioning>
+</metadata>

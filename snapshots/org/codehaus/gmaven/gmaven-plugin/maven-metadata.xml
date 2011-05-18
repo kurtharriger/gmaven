@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.gmaven</groupId>
+  <artifactId>gmaven-plugin</artifactId>
+  <versioning>
+    <latest>1.4-SNAPSHOT</latest>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110518234834</lastUpdated>
+  </versioning>
+</metadata>
