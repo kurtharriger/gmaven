@@ -1,1 +1,14 @@
+
+Add the following to your pom.xml file:
+
+
+    <repositories>
+        <repository>
+            <id>kurtharriger-snapshots</id>
+            <url>https://github.com/kurtharriger/kurtharriger-maven-repo/raw/master/snapshots</url>
+        </repository>
+    </repositories>
+
+
+
 See following blog for more info about hosting maven repos on github: http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/
