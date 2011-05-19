@@ -4,8 +4,8 @@ Add the following to your pom.xml file:
 
     <repositories>
         <repository>
-            <id>kurtharriger-snapshots</id>
-            <url>https://github.com/kurtharriger/kurtharriger-maven-repo/raw/master/snapshots</url>
+            <id>kurtharriger-gmaven-snapshots</id>
+            <url>https://github.com/kurtharriger/gmaven/raw/maven/snapshots</url>
         </repository>
     </repositories>
 
