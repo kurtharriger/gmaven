@@ -408,9 +408,9 @@ $Id$
     </dependencyManagement>
     
     <modules>
-        <!-- <module>gmaven-support</module> -->
         <module>gmaven-feature</module>
         <module>gmaven-runtime</module>
+        <module>gmaven-support</module>
         <module>gmaven-plugin</module>
         <module>gmaven-packaging</module>
         <module>gmaven-mojo</module>
