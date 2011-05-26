@@ -197,11 +197,14 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
+            <version>${slf4j.version}</version>
         </dependency>
 
         <dependency>
             <groupId>org.sonatype.gossip</groupId>
             <artifactId>gossip</artifactId>
+            <version>${gossip.version}</version>
+            <type>pom</type>
             <scope>runtime</scope>
         </dependency>
     </dependencies>
